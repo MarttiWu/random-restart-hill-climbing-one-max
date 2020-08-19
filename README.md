@@ -1,6 +1,8 @@
 # Random-restart Hill Climbing Algorithm
 
-The Hill Climbing Algorithm is a simple heuristic method which simulates the behavior of human beings during mountain climbing.
+The Random-restart Hill Climbing Algorithm is a improvement of Hill Climbling Algorithm.
+
+When being stuck in local optima, it just simply random a new point.
 
 Pros:
 1. More efficient than Exhaustive Search, due to the avoidance of overall search.
