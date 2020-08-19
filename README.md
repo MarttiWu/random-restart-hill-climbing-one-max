@@ -41,5 +41,5 @@ in "execute.hpp".
 
 # Results
 
-![alt text]()
+![alt text](https://github.com/MarttiWu/random-restart-hill-climbing-one-max/blob/master/RRHC_one_max.png)
 
