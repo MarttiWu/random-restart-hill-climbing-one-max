@@ -1,6 +1,6 @@
 # Random-restart Hill Climbing Algorithm
 
-The Random-restart Hill Climbing Algorithm is a improvement of Hill Climbling Algorithm.
+The Random-restart Hill Climbing Algorithm is an improvement of Hill Climbling Algorithm.
 
 When being stuck in local optima, it just simply random a new point.
 
