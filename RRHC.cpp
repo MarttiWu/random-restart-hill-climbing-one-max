@@ -65,6 +65,10 @@ void RRHC::run(){
         record_value[it] = best_value;
         it++;
     }
+    for (int i=it;i<record_value.size();i++){
+        record_bitstr[i] = best_bitstr;
+        record_value[i] = best_value;
+    }
 }
 
 void RRHC::restart_1bit(){
