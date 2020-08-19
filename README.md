@@ -31,6 +31,7 @@ Open terminal
 
         ./search.sh
     in the terminal.
+    
 # Customize
 
 You can change the iteration block by modifying 
